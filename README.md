@@ -9,6 +9,7 @@ I developed RH TOOL, a comprehensive web application for employee management usi
 This platform intuitively allows adding, viewing, and updating detailed employee information. 
 With a user-friendly interface and robust features, RH TOOL simplifies HR administrative management, providing an efficient and centralized way to track and handle employee data.
 
-![RH-TOOL acceuil](capture image/1.png)
+![RH-TOOL acceuil](images/1.png)
 
-![RH-TOOL acceuil](capture image/Capture d'écran 2023-11-08 213932.png)
+
+![RH-TOOL acceuil](images/2.png)
